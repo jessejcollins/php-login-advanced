@@ -110,3 +110,8 @@ define("EMAIL_VERIFICATION_CONTENT", "Please click on this link to activate your
  * This constant will be used in the login and the registration class.
  */
 define("HASH_COST_FACTOR", "10");
+
+/**
+ * Configuration for: user registration
+ */
+define("USER_ALLOW_SELF_REGISTRATION", true);
