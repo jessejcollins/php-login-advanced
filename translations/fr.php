@@ -49,7 +49,8 @@ define("MESSAGE_USERNAME_INVALID", "Nom d'utilisateur invalide : seul les lettre
 define("MESSAGE_USERNAME_SAME_LIKE_OLD_ONE", "Désolé, ce nom d'utilisateur est déjà le votre. Merci d'en choisir un autre.");
 
 // views
-define("WORDING_BACK_TO_LOGIN", "Revenir à la page de connexion");
+define("WORDING_TITLE_LOGGED_IN", "translate 'Dashboard'");
+define("WORDING_BACK_TO_LOGIN", "translate 'Back to Dashboard'");
 define("WORDING_CHANGE_EMAIL", "Changer l'adresse email");
 define("WORDING_CHANGE_PASSWORD", "Changer le mot de passe");
 define("WORDING_CHANGE_USERNAME", "Changer le nom d'utilisateur");
